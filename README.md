@@ -1,5 +1,8 @@
 # Thesis-
-论文总结（CVPR，ICCV，ECCV与AAAI）
+SOD, Removal论文总结（CVPR，ICCV，ECCV与AAAI）
+
+
+
 Global Context-Aware Progressive Aggregation Network for Salient Object Detection 
 
 Progressive Feature Polishing Network for Salient Object Detection
